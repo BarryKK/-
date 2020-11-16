@@ -1,4 +1,5 @@
-# 为什么和何时在Javascript中使用forEach
+# 为何和何时在Javascript中使用forEach, map, filter, reduce 和 find。
+[原文地址](https://medium.com/@JeffLombardJr/understanding-foreach-map-filter-and-find-in-javascript-f91da93b9f2c)
 
 许多文章在讨论怎么在数组上使用`.forEach()`, `.map()`, `.filter()`, `.reduce()` 和 `.find()`。我认为解释何时使用这些通用的数组方法是很有的。
 
